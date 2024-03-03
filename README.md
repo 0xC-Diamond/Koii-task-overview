@@ -26,9 +26,9 @@ Task name	Task ID	Min stake
 |*Inflation Monitoring*|EN4CA8EuLzUJGDC8p6WwCqCniwGB99sXh7Ma2WBKDL9o|0.9 KOII|   |   |
 |*Big Big Task*|tqhFcPKvcWPagNWNEBC6LtpFujboi7FigVoVUw2Ph8n|0.01 KOII|   |   |
 |*Adot Search AI*|Aq3Q4nk43hEdXjEwqwqMLTfPnL3NNSEfT9ascWVYdtUG|1.9 KOII|   |   |
-|  *#koii Twitter Archive* |   |   |   |   |
-|  *Archive Twitter* |   |   |   |   |
-| *Mask Social Feeds* |   |   |   |   |
+|*#koii Twitter Archive*|9cdhfH8QaMVra5WVDNnM1sDaXBAZe4V1UkcePXbQh7Cy|1.9 KOII|   |   |
+|*Archive Twitter*|Hcpv6q57mcG9fGca9xMoivMuCVNWZd9atxRQfcde6Edb|1.9 KOII|   |   |
+|*Mask Social Feeds*|G1VDo94Nvbbn3fwbnbn4jAMiv9SY7QnRE3yamSbw4DWc|1.9 KOII|   |   |
 
 
 
