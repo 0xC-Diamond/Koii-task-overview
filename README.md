@@ -19,6 +19,20 @@ Task name	Task ID	Min stake
 
 *Mask Social Feeds*	7NvPT3RC24NhgMZZSW1Ke5WKcVLwQgwRbYfVYsvkJobH 1.9 KOII
 
+#Without Task Descriptions:
+| Task name  |  Task ID |  Min stake |  |   |
+|---|---|---|---|---|
+|*Free Token Task!*|5CNWuMPNfzARFyxEcDwGCXgsxZHasNQjP6vQSFxeEyET|1.7 KOII|   |   |
+|*Arweave Verifier*|BwwkRHB1GVWvVDbdXfUobRFLfz7wz6tz2u2W8mKCUjsj|1.9 KOII|   |   |
+|*Inflation Monitoring*|EN4CA8EuLzUJGDC8p6WwCqCniwGB99sXh7Ma2WBKDL9o|0.9 KOII|   |   |
+|*Big Big Task*|tqhFcPKvcWPagNWNEBC6LtpFujboi7FigVoVUw2Ph8n|0.01 KOII|   |   |
+|*Adot Search AI*|Aq3Q4nk43hEdXjEwqwqMLTfPnL3NNSEfT9ascWVYdtUG|1.9 KOII|  |   |
+|*#koii Twitter Archive*|9cdhfH8QaMVra5WVDNnM1sDaXBAZe4V1UkcePXbQh7Cy|1.9 KOII|   |   |
+|*Archive Twitter*|Hcpv6q57mcG9fGca9xMoivMuCVNWZd9atxRQfcde6Edb|1.9 KOII|   |   |
+|*Mask Social Feeds*|G1VDo94Nvbbn3fwbnbn4jAMiv9SY7QnRE3yamSbw4DWc|1.9 KOII|   |   |
+
+#With Task Descriptions:
+
 | Task name  |  Task ID |  Min stake | Task description  |   |
 |---|---|---|---|---|
 |*Free Token Task!*|5CNWuMPNfzARFyxEcDwGCXgsxZHasNQjP6vQSFxeEyET|1.7 KOII|   |   |
