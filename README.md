@@ -21,8 +21,8 @@ Task name	Task ID	Min stake
 
 | Task name  |  Task ID |  Min stake |   |   |
 |---|---|---|---|---|
-| *Free Token Task!*  | 5CNWuMPNfzARFyxEcDwGCXgsxZHasNQjP6vQSFxeEyET  | 1.7 KOII  |   |   |
-|  *Arweave Verifier* |   |   |   |   |
+| *Free Token Task!*  |5CNWuMPNfzARFyxEcDwGCXgsxZHasNQjP6vQSFxeEyET| 1.7 KOII  |   |   |
+|  *Arweave Verifier* |BwwkRHB1GVWvVDbdXfUobRFLfz7wz6tz2u2W8mKCUjsj|   |   |   |
 |  *Inflation Monitoring* |   |   |   |   |
 | *Big Big Task*  |   |   |   |   |
 |  *Adot Search AI* |   |   |   |   |
