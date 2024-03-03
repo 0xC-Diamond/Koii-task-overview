@@ -19,3 +19,9 @@ Task name	Task ID	Min stake
 
 *Mask Social Feeds*	7NvPT3RC24NhgMZZSW1Ke5WKcVLwQgwRbYfVYsvkJobH 1.9 KOII
 
+| Task name  |  Task ID |   |   |   |
+|---|---|---|---|---|
+| *Free Token Task!*  |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
