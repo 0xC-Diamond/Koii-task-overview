@@ -21,11 +21,11 @@ Task name	Task ID	Min stake
 
 | Task name  |  Task ID |  Min stake |   |   |
 |---|---|---|---|---|
-| *Free Token Task!*  |5CNWuMPNfzARFyxEcDwGCXgsxZHasNQjP6vQSFxeEyET| 1.7 KOII  |   |   |
-|  *Arweave Verifier* |BwwkRHB1GVWvVDbdXfUobRFLfz7wz6tz2u2W8mKCUjsj|   |   |   |
-|  *Inflation Monitoring* |   |   |   |   |
-| *Big Big Task*  |   |   |   |   |
-|  *Adot Search AI* |   |   |   |   |
+|*Free Token Task!*|5CNWuMPNfzARFyxEcDwGCXgsxZHasNQjP6vQSFxeEyET|1.7 KOII|   |   |
+|*Arweave Verifier*|BwwkRHB1GVWvVDbdXfUobRFLfz7wz6tz2u2W8mKCUjsj|1.9 KOII|   |   |
+|*Inflation Monitoring*|EN4CA8EuLzUJGDC8p6WwCqCniwGB99sXh7Ma2WBKDL9o|0.9 KOII|   |   |
+|*Big Big Task*|tqhFcPKvcWPagNWNEBC6LtpFujboi7FigVoVUw2Ph8n|0.01 KOII|   |   |
+|*Adot Search AI*|Aq3Q4nk43hEdXjEwqwqMLTfPnL3NNSEfT9ascWVYdtUG|1.9 KOII|   |   |
 |  *#koii Twitter Archive* |   |   |   |   |
 |  *Archive Twitter* |   |   |   |   |
 | *Mask Social Feeds* |   |   |   |   |
