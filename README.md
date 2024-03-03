@@ -19,9 +19,16 @@ Task name	Task ID	Min stake
 
 *Mask Social Feeds*	7NvPT3RC24NhgMZZSW1Ke5WKcVLwQgwRbYfVYsvkJobH 1.9 KOII
 
-| Task name  |  Task ID |   |   |   |
+| Task name  |  Task ID |  Min stake |   |   |
 |---|---|---|---|---|
-| *Free Token Task!*  |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| *Free Token Task!*  | 5CNWuMPNfzARFyxEcDwGCXgsxZHasNQjP6vQSFxeEyET  | 1.7 KOII  |   |   |
+|  *Arweave Verifier* |   |   |   |   |
+|  *Inflation Monitoring* |   |   |   |   |
+| *Big Big Task*  |   |   |   |   |
+|  *Adot Search AI* |   |   |   |   |
+|  *#koii Twitter Archive* |   |   |   |   |
+|  *Archive Twitter* |   |   |   |   |
+| *Mask Social Feeds* |   |   |   |   |
+
+
 
