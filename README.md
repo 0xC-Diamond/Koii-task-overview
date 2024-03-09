@@ -1,5 +1,5 @@
 # KoiiNetwork Task Overview
-Information updated: 03.03.2024
+Information updated: 09.03.2024
 
 #Without Task Descriptions:
 | Task name  |  Task ID |  Min stake | StakePotAccount|
@@ -12,6 +12,13 @@ Information updated: 03.03.2024
 |*#koii Twitter Archive*|6G9KbwXbqNSnDTvxFyKq29pkv3QaLEJy4f42sR4FVDA4|1.9 KOII|stakepotaccountNDKeZHmGXznaNsEwhXCmniAbihBe|
 |*Archive Twitter*|Hcpv6q57mcG9fGca9xMoivMuCVNWZd9atxRQfcde6Edb|1.9 KOII|stakepotaccount7SFz7ktmdsrzq2XWsHU2vEED3jkn|
 |*Mask Social Feeds*|G1VDo94Nvbbn3fwbnbn4jAMiv9SY7QnRE3yamSbw4DWc|1.9 KOII|stakepotaccountJzZy84qWXMBQzay7G4PpAkZ6sMov|
+
+
+
+
+
+
+
 
 #With Task Descriptions:
 
