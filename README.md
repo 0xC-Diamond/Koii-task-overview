@@ -1,7 +1,7 @@
 # KoiiNetwork Task Overview
 Information updated: 09.03.2024
 
-#Without Task Descriptions:
+## Without Task Descriptions:
 | Task name  |  Task ID |  Min stake | StakePotAccount|
 |---|---|---|---|
 |*Free Token Task!*|4ipWnABntsvJPsAkwyMF7Re4z39ZUMs2S2dfEm5aa2is|1.7 KOII|stakepotaccountsP9iQfvCxMeS7RNNgrSVTDyxJRPQ|
