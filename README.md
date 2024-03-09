@@ -9,7 +9,7 @@ Information updated: 03.03.2024
 |*Inflation Monitoring*|6ENPknrNEhG7kJ8L5Nd1wZdGjN5ypmyVwxUWBGCoCuwo|0.9 KOII|stakepotaccountUSa4PP3giGXujwwcCeY2KcuRSvRH|
 |*Big Big Task*|tqhFcPKvcWPagNWNEBC6LtpFujboi7FigVoVUw2Ph8n|0.01 KOII|stakepotaccountbBfU516XSaQN2KVbreU9K43g8VuR|
 |*Adot Search AI*|CFnxC7jDy57dsXo4dtq9BNLH5u4trJGdrmM5N52ys6Z|1.9 KOII|stakepotaccountBrjxUR83SGqMf8S2LiyQMBna52Px|
-|*#koii Twitter Archive*|9cdhfH8QaMVra5WVDNnM1sDaXBAZe4V1UkcePXbQh7Cy|1.9 KOII|
+|*#koii Twitter Archive*|6G9KbwXbqNSnDTvxFyKq29pkv3QaLEJy4f42sR4FVDA4|1.9 KOII|stakepotaccountNDKeZHmGXznaNsEwhXCmniAbihBe|
 |*Archive Twitter*|Hcpv6q57mcG9fGca9xMoivMuCVNWZd9atxRQfcde6Edb|1.9 KOII|stakepotaccount7SFz7ktmdsrzq2XWsHU2vEED3jkn|
 |*Mask Social Feeds*|G1VDo94Nvbbn3fwbnbn4jAMiv9SY7QnRE3yamSbw4DWc|1.9 KOII|stakepotaccountJzZy84qWXMBQzay7G4PpAkZ6sMov|
 
